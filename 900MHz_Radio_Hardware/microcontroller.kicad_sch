@@ -793,7 +793,7 @@
     (uuid ecd555d8-b8c7-4c77-a2de-cc60f2cfa6f0)
   )
 
-  (text "100Hz\nLPF" (at 213.36 147.32 0)
+  (text "1Hz\nLPF" (at 213.36 147.32 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e0fbd7f3-aa41-44eb-83aa-693f89e2d0a6)
   )
@@ -1215,7 +1215,7 @@
     (property "Reference" "R5" (at 215.9 133.35 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "160" (at 215.9 135.89 90)
+    (property "Value" "16k" (at 215.9 135.89 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 215.9 137.668 90)
