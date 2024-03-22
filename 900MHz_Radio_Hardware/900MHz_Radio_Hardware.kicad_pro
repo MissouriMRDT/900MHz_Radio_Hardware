@@ -330,6 +330,10 @@
     [
       "fd7e5d4a-4a71-414e-9993-037c48e39dc4",
       "Microcontroller"
+    ],
+    [
+      "df34dddb-2e31-451e-909e-13be923dd39a",
+      "Oscillator"
     ]
   ],
   "text_variables": {}
