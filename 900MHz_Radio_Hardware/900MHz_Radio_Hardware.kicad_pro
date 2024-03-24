@@ -334,6 +334,10 @@
     [
       "df34dddb-2e31-451e-909e-13be923dd39a",
       "Oscillator"
+    ],
+    [
+      "47dc8755-2af3-4c59-8190-e0b03e31b0d5",
+      "Modulator"
     ]
   ],
   "text_variables": {}
