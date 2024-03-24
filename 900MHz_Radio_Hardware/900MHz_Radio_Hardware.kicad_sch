@@ -917,11 +917,11 @@
     (property "Datasheet" "" (at 12.7 196.85 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 5350b1a6-81b1-4b68-95c4-75a77528f9fe))
+    (pin "1" (uuid 5350b1a6-81b1-4b68-95c4-75a77528f9ff))
     (pin "2" (uuid 1990d424-aaae-4dce-9906-db0fa56c8d5e))
     (pin "3" (uuid 61cebabc-7cfc-41bc-bad5-fe032663cd08))
     (pin "4" (uuid da6d1809-79b3-4fb4-bc08-a3291a458157))
-    (pin "1" (uuid 5350b1a6-81b1-4b68-95c4-75a77528f9fe))
+    (pin "1" (uuid 5350b1a6-81b1-4b68-95c4-75a77528f9ff))
     (instances
       (project "900MHz_Radio_Hardware"
         (path "/8d477a51-3dbb-4c04-84c7-90186d141eda"
@@ -1199,11 +1199,11 @@
     (property "Datasheet" "" (at 12.7 184.15 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 86d8dfeb-48a5-4cf7-aa5e-0df1f4bec1a2))
+    (pin "1" (uuid 86d8dfeb-48a5-4cf7-aa5e-0df1f4bec1a3))
     (pin "2" (uuid 3cdaf95d-89db-4bf4-9fcd-1e2812e4e3d9))
     (pin "3" (uuid 4f6fc659-469e-4f7c-ba46-2e7deb4536e2))
     (pin "4" (uuid 60c59025-e31a-4437-a8d1-3f6b4a238ac0))
-    (pin "1" (uuid 86d8dfeb-48a5-4cf7-aa5e-0df1f4bec1a2))
+    (pin "1" (uuid 86d8dfeb-48a5-4cf7-aa5e-0df1f4bec1a3))
     (instances
       (project "900MHz_Radio_Hardware"
         (path "/8d477a51-3dbb-4c04-84c7-90186d141eda"
