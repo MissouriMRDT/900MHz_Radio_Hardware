@@ -767,6 +767,11 @@
     (uuid fc98e3c7-4b7e-4540-8118-af00f5c1762d)
   )
 
+  (text "not high enough clock frequency" (at 152.4 82.55 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 2e0571a1-56ed-43f7-bb09-f1143db109a5)
+  )
+
   (global_label "SPI_SCK" (shape input) (at 127 92.71 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 4a56be3a-fc1b-48a7-a33e-9105ed86d6ea)
