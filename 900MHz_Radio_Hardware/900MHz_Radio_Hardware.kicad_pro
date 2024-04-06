@@ -338,6 +338,26 @@
     [
       "47dc8755-2af3-4c59-8190-e0b03e31b0d5",
       "Modulator"
+    ],
+    [
+      "74ecc14e-df0b-4a87-8feb-0dc9ae5d6d09",
+      "Demodulator"
+    ],
+    [
+      "1dfe5142-2176-4f79-8665-07314b4a412f",
+      "MOD_PreAmp"
+    ],
+    [
+      "1dbd7fea-3722-40f3-b193-4b0fc9073c2c",
+      "MOD_PostAmp"
+    ],
+    [
+      "f68df513-79d3-4d22-b6f7-880eee588e1a",
+      "DMOD_PreAmp"
+    ],
+    [
+      "8c203957-92bc-47b5-b79a-dbbbb4c045bd",
+      "DMOD_PostAmp"
     ]
   ],
   "text_variables": {}

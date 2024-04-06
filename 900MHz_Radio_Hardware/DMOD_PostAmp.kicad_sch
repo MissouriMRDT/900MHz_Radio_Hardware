@@ -1,0 +1,23 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 12dfccdd-3fef-4105-af45-e758ec259cab)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "DMOD_PostAmp_Out+" (shape output) (at 74.93 107.95 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 13e40071-9798-45ae-83f5-2b4853fee38b)
+  )
+  (hierarchical_label "DMOD_PostAmp_In" (shape input) (at 60.96 107.95 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 225a7d46-197b-465c-8430-ee062164e39c)
+  )
+  (hierarchical_label "DMOD_PostAmp_Out-" (shape output) (at 74.93 111.76 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid d8ecbe15-2b7b-4d1a-87d2-f60b8b2540fd)
+  )
+)
