@@ -338,10 +338,6 @@
     [
       "47dc8755-2af3-4c59-8190-e0b03e31b0d5",
       "Modulator"
-    ],
-    [
-      "2383d90a-a6db-4069-a2d3-9b8834d99962",
-      "TX_IQ_Generation"
     ]
   ],
   "text_variables": {}
