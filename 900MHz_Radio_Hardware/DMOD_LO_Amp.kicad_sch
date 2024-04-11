@@ -1,0 +1,19 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid dbeb1714-6d9b-4d1d-b3de-bf601c775d4d)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "DMOD_PreAmp_In" (shape input) (at 71.12 100.33 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 39ec43d8-704c-4f54-a013-454485f8c87c)
+  )
+  (hierarchical_label "DMOD_PreAmp_Out" (shape output) (at 86.36 100.33 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 8d8fdd0d-5bce-4fd4-9c14-82eab42049dc)
+  )
+)

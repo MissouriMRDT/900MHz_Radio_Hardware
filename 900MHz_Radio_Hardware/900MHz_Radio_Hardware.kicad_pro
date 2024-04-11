@@ -345,19 +345,19 @@
     ],
     [
       "1dfe5142-2176-4f79-8665-07314b4a412f",
-      "MOD_PreAmp"
+      "MOD_LO_Amp"
     ],
     [
       "1dbd7fea-3722-40f3-b193-4b0fc9073c2c",
-      "MOD_PostAmp"
+      "MOD_RF_Amp"
     ],
     [
       "f68df513-79d3-4d22-b6f7-880eee588e1a",
-      "DMOD_PreAmp"
+      "DMOD_LO_Amp"
     ],
     [
       "8c203957-92bc-47b5-b79a-dbbbb4c045bd",
-      "DMOD_PostAmp"
+      "DMOD_RF_Amp"
     ]
   ],
   "text_variables": {}

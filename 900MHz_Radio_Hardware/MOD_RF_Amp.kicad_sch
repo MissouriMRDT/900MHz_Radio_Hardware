@@ -1,0 +1,19 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 3bae7731-12a6-4aef-99ba-bb0ee01d8b6d)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "MOD_PostAmp_In" (shape input) (at 53.34 109.22 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 238a1b98-7677-4e01-9095-6b96a9f5dc46)
+  )
+  (hierarchical_label "MOD_PostAmp_Out" (shape output) (at 72.39 109.22 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 5a61d16d-a5e5-4f4b-9e2f-12bebc6ae1e5)
+  )
+)
